@@ -1,5 +1,5 @@
 # Msc_Dissertation_UOE
-# Forest disturbance mapping using Radar imagery.![image](https://github.com/Rajat1097/Msc_Dissertation_UOE/assets/87277208/ab483d60-87fe-4fdd-9bc1-1b15afa0fffd
+# Forest disturbance mapping using Radar imagery.
 ##### Sentinel 1 is a radar satellite. Backscatter value decrease when there is forest canopy loss.
 ##### The CuSum technique is a statistical-based change detection method utilized for analyzing multi-temporal processes. It exhibits the capability to identify various forms of variations, whether gradual or sudden, that significantly influence the overall trend observed within the time-series data.
 
