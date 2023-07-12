@@ -8,7 +8,7 @@
 ### get_disturbancemap_DSC_VH
 #### Get a forest disturbance map in the study area using VH polarisation using google earth API in Python. 
 -------------------------------------------------------------------------------------------------------------------------
-### get_disturbance_map_comb_vv_VH
+### get_disturbance_map_comb
 #### Get a forest disturbance map in the study area using a combination of VV and VH polarisation using google earth API in Python. 
 -------------------------------------------------------------------------------------------------------------------------------------
 
